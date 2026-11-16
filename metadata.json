@@ -1,0 +1,6 @@
+{
+  "name": "Sri Krishna College",
+  "description": "Official academic portal for Sri Krishna College featuring undergraduate and postgraduate course details, transparent fee structure, scholarships, campus facilities, and 2026–27 admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
